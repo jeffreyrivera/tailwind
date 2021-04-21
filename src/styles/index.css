@@ -1,0 +1,10 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .hashtag {
+        @apply inline-block bg-gray-300 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2;
+    }
+}

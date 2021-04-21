@@ -8,14 +8,19 @@ This component displays a profile and accompanying profile picture. Two clear se
 
 ### Mobile Rendering
 
+![mobileProfile](https://user-images.githubusercontent.com/727988/115495072-b1753f80-a21b-11eb-8e29-69c757c9a7b1.PNG)
 
 ### Small Screen
 
+![smallProfile](https://user-images.githubusercontent.com/727988/115495071-b1753f80-a21b-11eb-8024-3cea83adf0cd.PNG)
 
 ### Mid Size 
 
+![midProfile](https://user-images.githubusercontent.com/727988/115495070-b1753f80-a21b-11eb-9af3-04a0f0e16998.PNG)
 
 ### Full Size
+
+![bigSizeProfile](https://user-images.githubusercontent.com/727988/115495069-b0dca900-a21b-11eb-8f04-164646cbddb6.PNG)
 
 
 ## Multiple Destination Component
@@ -23,16 +28,19 @@ This component displays a group of destinations and accompanying unique descript
 
 ### Mobile Rendering
 
+![mobileDestinations](https://user-images.githubusercontent.com/727988/115495065-b0441280-a21b-11eb-8782-895bfe62acff.PNG)
 
 ### Small Screen
 
+![smallDestinations](https://user-images.githubusercontent.com/727988/115495066-b0441280-a21b-11eb-9935-8593de9b96ba.PNG)
 
 ### Mid Size 
 
+![MidDestinations](https://user-images.githubusercontent.com/727988/115495067-b0dca900-a21b-11eb-95d2-908e757f264f.PNG)
 
 ### Full Size
 
-
+![bigSizeDestinations](https://user-images.githubusercontent.com/727988/115495068-b0dca900-a21b-11eb-966b-099de505ed5d.PNG)
 
 
 

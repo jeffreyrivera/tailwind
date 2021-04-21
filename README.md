@@ -1,4 +1,45 @@
-# Getting Started with Create React App
+# Description
+
+Tailwind CSS demo React application. Uses Create React App and follows documentation on Tailwind css for React integration. 
+There are two basic components a card like Profile Entree and a Multiple Destination type layout.  Both use multiple tailwindcss classes and exemplifies best uses explained by documentation. The layouts defined a responsive layout for multiple screens using Tailwindcss Breakpoints. It also defines a customm tailwindcss.config file to extend the --full tailwind config file instead of overwritting it. End up prodcut ready to be build and purges css ready for production.
+
+## Profile Component
+This component displays a profile and accompanying profile picture. Two clear sections that function differently depending of the screen.
+
+### Mobile Rendering
+
+
+### Small Screen
+
+
+### Mid Size 
+
+
+### Full Size
+
+
+## Multiple Destination Component
+This component displays a group of destinations and accompanying unique description. Rendering uses Component to abstract each unique destination instead of repeating mark up and unnecessary css classes to group each segment. Entirely buidl using Tailwind basic, components and utilities. 
+
+### Mobile Rendering
+
+
+### Small Screen
+
+
+### Mid Size 
+
+
+### Full Size
+
+
+
+
+
+
+# Installation
+
+## Uses Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
